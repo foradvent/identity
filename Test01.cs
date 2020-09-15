@@ -10,6 +10,6 @@ public class Class1
 		//
 		// TODO: Add constructor logic here
 		//
-		int a = 1;
+		int a = 2;
 	}
 }
